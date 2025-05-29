@@ -11,7 +11,7 @@
     },
     "webAppName": {
       "type": "string",
-      "defaultValue": "myMvcAppWebApp",
+      "defaultValue": "myMvcAppWebApp_github_cloudlabuser_2063",
       "metadata": {
         "description": "Name of the Web App."
       }
